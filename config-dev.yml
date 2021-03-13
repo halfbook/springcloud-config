@@ -1,0 +1,2 @@
+config:
+  info: spring cloud config server : config-dev.yml
