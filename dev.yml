@@ -1,2 +1,2 @@
 config:
-  info: master springcloud-config-server:dev.yml version=6.0
+  info: master springcloud-config-server:dev.yml version=8.0
